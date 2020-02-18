@@ -73,10 +73,7 @@ REFERENCES "forum" ("id");
 ---?image=assets/img/code.jpg&opacity=60&position=left&size=45% 100%
 
 @snap[east span-50 text-center]
-## Now It's **Your** Turn
+## R **Vidergående** seminar
 @snapend
 
-@snap[south-east span-50 text-center text-06]
-[Download GitPitch Desktop @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
-@snapend
 
