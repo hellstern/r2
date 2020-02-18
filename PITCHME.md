@@ -1,6 +1,12 @@
-# Let's Get **Started**
+---?image=assets/img/code.jpg&opacity=60&position=left&size=45% 100%
+
+@snap[east span-50 text-center]
+## R **seminar**
+### Tue Hellstern
+@snapend
 
 ---
+
 
 ### Add Some Slide Candy
 
@@ -73,7 +79,8 @@ REFERENCES "forum" ("id");
 ---?image=assets/img/code.jpg&opacity=60&position=left&size=45% 100%
 
 @snap[east span-50 text-center]
-## R **Vidergående** seminar
+## R **seminar**
+### Tue Hellstern
 @snapend
 
 
