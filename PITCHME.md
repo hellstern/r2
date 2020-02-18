@@ -7,52 +7,50 @@
 
 ---
 
-
-### Add Some Slide Candy
-
-![IMAGE](assets/img/presentation.png)
-
----?color=linear-gradient(180deg, white 75%, black 25%)
-@title[Customize Slide Layout]
-
-@snap[west span-55]
-## Customize the Layout
-@snapend
-
-@snap[north-east span-45]
-![IMAGE](assets/img/presentation.png)
-@snapend
-
-@snap[south span-100]
-Snap Layouts let you create custom slide designs directly within your markdown.
-@snapend
-
----
-@title[Add A Little Imagination]
-
-@snap[north-west span-50 text-center]
-#### Engage your Audience
-@snapend
-
-@snap[west span-55]
-@ul[list-spaced-bullets text-09]
-- You will be amazed
-- What you can achieve
-- With a **little imagination**
-- And GitPitch Markdown
+### Tidsplan
+@ul[](false)
+- Velkommen kl. 17:00
+- Sandwich Kl. 18:15 - 18:45
+- Kaffe/The/Kage Kl. 20:00 - 20:15
+- Spørgsmål Kl. 21:00
+- Slut Kl. 21:30 
 @ulend
-@snapend
-
-@snap[east span-45]
-![IMAGE](assets/img/conference.png)
-@snapend
-
-@snap[south span-100 bg-black fragment]
-@img[shadow](assets/img/conference.png)
-@snapend
 
 ---
 
+### Agenda
+@ul[](false)
+- 
+- Kontrol struktur if-else // switch
+- Loops i R
+- 
+-  
+@ulend
+
+---
+
+@snap[north-east span-100 text-pink text-06]
+if-else
+@snapend
+
+```r zoom-18
+if(logical condition evaluating to either TRUE or FALSE)
+{
+First set consisting of one or more R expressions
+else
+}
+{
+Second set consisting of one or more R expressions
+}
+```
+
+@snap[south span-100 text-gray text-08]
+@[1-5](You can step-and-ZOOM into fenced-code blocks, source files, and Github GIST.)
+@[6,7, zoom-13](Using GitPitch live code presenting with optional annotations.)
+@[8-9, zoom-12](This means no more switching between your slide deck and IDE on stage.)
+@snapend
+
+---
 @snap[north-east span-100 text-pink text-06]
 Let your code do the talking!
 @snapend
